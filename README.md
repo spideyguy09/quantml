@@ -18,4 +18,4 @@ A weekly long-only momentum strategy using an ensemble of Random Forest and Logi
 **Stack:** Python · yfinance · scikit-learn · pandas · matplotlib
 
 ## View the notebook
-[Click here to view the full analysis](https://github.com/spideyguy09/quantml/blob/main/momentum-strategy/Abhijeet_QuantQuest_ESummit26.ipynb)
+[Click here to view the full analysis](https://htmlpreview.github.io/?https://github.com/spideyguy09/quantml/blob/main/momentum-strategy/momentum_strategy.html)
